@@ -1,0 +1,1 @@
+export { default } from 'eureka-widget-model-embedded-collection-widget/components/widget-model-embedded-collection-widget';

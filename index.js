@@ -2,5 +2,9 @@
 'use strict';
 
 module.exports = {
-  name: 'eureka-widget-model-embedded-collection-widget'
+    name: 'eureka-widget-model-embedded-collection-widget',
+
+    isDevelopingAddon: function() {
+      return true;
+    }
 };
