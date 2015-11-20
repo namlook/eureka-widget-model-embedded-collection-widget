@@ -1,6 +1,6 @@
 {
   "name": "eureka-widget-model-embedded-collection-widget",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An Eureka widget to embed another eureka collection widget.",
   "directories": {
     "doc": "doc",
